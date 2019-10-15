@@ -1,9 +1,9 @@
-Contents
-1.	Installation	2
-2.	Project Motivation	2
-3.	File Descriptions	3
-4.	How to Interact with Your Project	3
-5.	Licensing, Authors, Acknowledgements	4
+Table of Contents
+1.	Installation
+2.	Project Motivation
+3.	File Descriptions	
+4.	How to Interact with Your Project
+5.	Licensing, Authors, Acknowledgements	
 
  
 1.	Installation 
